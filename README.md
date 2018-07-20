@@ -76,7 +76,7 @@ _Clare Corthell, July 17, 2018_
 * [Moritz Hardt](http://mrtz.org/about.html), Co-founder and co-organizer of FATML
 * [Cynthia Dwork](https://www.seas.harvard.edu/directory/dwork), Harvard Gordon McKay Professor of Computer Science, Cryptography Expert and Author of [Differential Privacy](https://link.springer.com/chapter/10.1007/11787006_1) and works on fairness in classification.
 * [Kathryn Hume](https://twitter.com/HumeKathryn), Integrate AI Product Strategy and Speaker on history and philosophy of AI
-* [Virginia Eubanks], Author of [Automating Inequality](https://amzn.to/2JBxks3)
+* [Virginia Eubanks](https://virginia-eubanks.com/), Author of [Automating Inequality](https://amzn.to/2JBxks3)
 * [Joy Buolamwini](https://www.media.mit.edu/people/joyab/overview/) of MIT Media Lab & Founder of [AI Justice League](https://www.ajlunited.org/)
 * [Susan Etlinger](https://www.ted.com/speakers/susan_etlinger), Industry Expert at Altimeter Group
 * [Solon Barocas](http://solon.barocas.org/), Assistant Professor in the Department of Information Science at Cornell University & Co-founder of FATML (I suggest following his website's speaking calendar!)
