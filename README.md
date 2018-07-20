@@ -39,6 +39,7 @@ _Clare Corthell, July 17, 2018_
 * [Bias detectives: the researchers striving to make algorithms fair](https://www.nature.com/articles/d41586-018-05469-3) Nature 2018
 * [Amazon Employees demand cancellation of facial recognition tool sales](https://gizmodo.com/amazon-workers-demand-jeff-bezos-cancel-face-recognitio-1827037509) 2018
 * [The Coded Gaze](https://www.media.mit.edu/people/joyab/overview/) Joy Buolamwini, MIT Media Lab
+* [Trump's catch-and-detain policy snares many who call the U.S. home](https://www.reuters.com/investigates/special-report/usa-immigration-court/) -- "ICE modified a tool officers have been using since 2013 when deciding whether an immigrant should be detained or released on bond. The computer-based Risk Classification Assessment uses statistics to determine an immigrant’s flight risk and danger to society. Previously, the tool automatically recommended either “detain” or “release.” Last year, ICE spokesman Bourke said, the agency removed the “release” recommendation, but he noted that ICE personnel can override it.”
 
 ### Recommended Books
 * [Weapons of Math Destruction](https://amzn.to/2LpiUQs) Cathy O’Neil
@@ -46,7 +47,12 @@ _Clare Corthell, July 17, 2018_
 * [Frankenstein: Annotated for Scientists, Engineers, and Creators of All Kinds](https://amzn.to/2zUkt4z) Mary Shelley
 * [Wind, Sand, and Stars](https://amzn.to/2uxkera) Antoine de Saint Exupery
 
-### Cultural Bias in Data
+### Podcasts
+* [Cathy O'Neil: Do Algorithms Perpetuate Human Bias?](https://www.npr.org/2018/01/26/580617998/cathy-oneil-do-algorithms-perpetuate-human-bias) NPR January 26, 2018
+* [Episode 74: How to Avoid Bias in Your Machine Learning Models with Clare Corthell](https://soundcloud.com/the-impact-podcast/episode-74-how-to-avoid-bias-in-your-machine-learning-models-with-clare-corthell) The Impact Podcast | Georgian Partners 2018
+* [Ep 43: Is there Bias in Machine Learning Algorithms? – with guest Dr. Joshua Kroll](http://sparkdialog.com/bias-in-machine-learning-algorithms/) SparkDialog with Elizabeth Fernandez, May 1 2018
+
+### Research: Cultural Bias in Data
 * [Quantifying and Reducing Stereotypes in Word Embeddings](https://arxiv.org/pdf/1606.06121.pdf) Bolukbasi et al 2016
 * [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/pdf/1607.06520.pdf) Bolukbasi et al 2016
 
