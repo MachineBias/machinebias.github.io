@@ -41,7 +41,7 @@ _Clare Corthell, July 17, 2018_
 * [Artificial Intelligence’s White Guy Problem](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html?_r=1) Kate Crawford, NYTimes 2016
 * [Ethics Will Shape the Customer Experience of AI](https://www.linkedin.com/pulse/ethics-shape-customer-experience-ai-susan-etlinger) Susan Etlinger
 * [What is the Problem to Which Fair Machine Learning is the Solution? video](https://www.youtube.com/watch?v=S_AkPi6-r3Y) Solon Barocas 2017
-* [NYAI #20: Ethical Algorithms | Bias and Explainability in Machine Learning Systems](https://www.youtube.com/watch?v=BajPM1X9KfQ) Kathryn Hume
+* [NYAI #20: Ethical Algorithms - Bias and Explainability in Machine Learning Systems](https://www.youtube.com/watch?v=BajPM1X9KfQ) Kathryn Hume
 
 ### Syntheses / Long Form Reporting
 * [Unmasking A.I.'s Bias Problem](http://www.fortune.com/longform/ai-bias-problem/) Fortune 2018
@@ -57,7 +57,7 @@ _Clare Corthell, July 17, 2018_
 
 ### Podcasts
 * [Cathy O'Neil: Do Algorithms Perpetuate Human Bias?](https://www.npr.org/2018/01/26/580617998/cathy-oneil-do-algorithms-perpetuate-human-bias) NPR January 26, 2018
-* [Episode 74: How to Avoid Bias in Your Machine Learning Models with Clare Corthell](https://soundcloud.com/the-impact-podcast/episode-74-how-to-avoid-bias-in-your-machine-learning-models-with-clare-corthell) The Impact Podcast | Georgian Partners 2018
+* [Episode 74: How to Avoid Bias in Your Machine Learning Models with Clare Corthell](https://soundcloud.com/the-impact-podcast/episode-74-how-to-avoid-bias-in-your-machine-learning-models-with-clare-corthell) The Impact Podcast, Georgian Partners 2018
 * [Ep 43: Is there Bias in Machine Learning Algorithms? – with guest Dr. Joshua Kroll](http://sparkdialog.com/bias-in-machine-learning-algorithms/) SparkDialog with Elizabeth Fernandez, May 1 2018
 
 ### Research: Cultural Bias in Data
