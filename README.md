@@ -1,7 +1,7 @@
 # Cultural Bias in Machine Intelligence
 Journalistic coverage, process and technological approaches to inclusive analytical practices, sociotechnological theory, and recommended readings.
 
-_Please submit pull requests! You are part of the human forces that keep this up-to-date._
+_Please submit pull requests! Human forces keep this up-to-date._
 
 ## Talk
 
