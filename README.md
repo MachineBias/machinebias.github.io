@@ -81,7 +81,7 @@ _Clare Corthell, July 17, 2018_
 * [Susan Etlinger](https://www.ted.com/speakers/susan_etlinger), Industry Expert at Altimeter Group
 * [Solon Barocas](http://solon.barocas.org/), Assistant Professor in the Department of Information Science at Cornell University & Co-founder of FATML (I suggest following his website's speaking calendar!)
 * [Richard Zemel](http://www.cs.toronto.edu/~zemel/inquiry/home.php), Co-Founder and Director of Research, Vector Institute for Artificial Intelligence
-* [Timnit Gebru](http://ai.stanford.edu/~tgebru/) Fairness Accountability Transparency and Ethics (FATE) Microsoft Lab, Black in AI
+* [Timnit Gebru](http://ai.stanford.edu/~tgebru/) Fairness Accountability Transparency and Ethics (FATE) Microsoft Lab, Co-Founder of [Black in AI](https://blackinai.github.io/)
 * [Clare Corthell](http://clarecorthell.org), Industry Speaker on building more inclusive digital products
 
 ### Contact
